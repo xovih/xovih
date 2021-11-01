@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xovih
+- 👀 I’m interested in Web and Mobile App Developer
+- 🌱 I’m currently learning React and Flutter
